@@ -25,4 +25,4 @@ or
 
 
 
- I was helped with the equations by chat got and grok ai
+ I was helped with the equations by chat gbt and grok ai
